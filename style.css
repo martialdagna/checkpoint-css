@@ -1,0 +1,22 @@
+h1{
+   color: blue;
+}
+
+table , tr ,td,th{
+    border: 1px solid chocolate;
+}
+.titre2{
+    font-size: 50px;
+    color: rgb(180, 0, 48);
+    
+}
+#titre3{
+    text-decoration: underline;
+    color: rgb(8, 31, 8);
+    margin:rgb 100px;
+
+}
+.liste{
+    list-style: square;
+}
+
